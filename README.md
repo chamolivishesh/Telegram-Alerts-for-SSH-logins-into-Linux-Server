@@ -21,11 +21,11 @@ A lightweight Bash script to automatically set up real-time Telegram notificatio
 
 ### 1. Download or Create the Setup Script
 
-Save the following script as `setup-ssh-alerts.sh`:
+Save the following script as `install.sh`:
 
 ### 2. Configure Credentials
 
-Edit `setup-ssh-alerts.sh` and set your actual values for `TOKEN` and `CHAT_ID`:
+Edit `install.sh` and set your actual values for `TOKEN` and `CHAT_ID`:
 
 ```bash
 TOKEN="123456789:ABCdefGhIJKlmNoPQRsTUVwxyZ"
